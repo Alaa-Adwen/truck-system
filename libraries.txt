@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+TinyGPSPlus
+DHT sensor library
+Firebase ESP32 Client
+Adafruit GFX Library
+Adafruit SSD1306
